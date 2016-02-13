@@ -1,0 +1,5 @@
+					Object: - Multimeter
+
+Description of the object:-
+
+Multimeter is an electrical device used for the measurements of electrical properties like voltage, current and resistance. Thus the multimeter work as a voltmeter, ohmmeter and ammeter. A multimeter can be hand held device useful for basic fault finding and field service work or a bench instrument which can measure to a very high degree of accuracy. Hand held multimeter is portable and light weight compared to bench instrument. For measuring the mentioned electrical properties multimeter uses wires called test probes / lead wires. 
